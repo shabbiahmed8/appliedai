@@ -1,0 +1,2 @@
+# appliedai
+appliedai assignments
